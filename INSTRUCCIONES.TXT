@@ -1,0 +1,7 @@
+Movimiento : Flechas de direccion
+
+Disparar : Barra Espaciadora
+
+Presiona Esc en cualquier momento para salir del juego y guardar los puntos.
+
+El juego se acaba si el jugador se queda sin vidas, o si se acaban las oleadas de enemigos.

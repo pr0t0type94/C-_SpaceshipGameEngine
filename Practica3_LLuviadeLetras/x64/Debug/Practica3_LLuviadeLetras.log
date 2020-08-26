@@ -1,0 +1,7 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(377,5): warning MSB8004: El directorio Output no termina con una barra diagonal final. Esta instancia de compilación agregará la barra diagonal porque es necesaria para que se pueda evaluar correctamente el directorio Output.
+  Engine2.cpp
+c:\users\manel\documents\visual studio 2017\projects\practicas_entregafinal\practica3_lluviadeletras\timemanager.h(19): warning C4244: 'inicializando': conversión de 'float' a 'const clock_t'; posible pérdida de datos
+c:\users\manel\documents\visual studio 2017\projects\practicas_entregafinal\practica3_lluviadeletras\engine2.cpp(151): warning C4101: 'i': variable local sin referencia
+GameObject.obj : warning LNK4221: Este archivo de objeto no define ning·n sÝmbolo p·blico que no se haya definido previamente, por lo que no se usarß en ninguna vinculaci¾n que utilice esta biblioteca
+ExplosionClass.obj : warning LNK4221: Este archivo de objeto no define ning·n sÝmbolo p·blico que no se haya definido previamente, por lo que no se usarß en ninguna vinculaci¾n que utilice esta biblioteca
+  Practica3_LLuviadeLetras.vcxproj -> C:\Users\manel\Documents\Visual Studio 2017\Projects\PRACTICAS_ENTREGAFINAL\lib\Practica3_LLuviadeLetras.lib

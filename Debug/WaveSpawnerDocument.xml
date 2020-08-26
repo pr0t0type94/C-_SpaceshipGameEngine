@@ -1,0 +1,15 @@
+<PLAY>
+	<WAVES_TO_SPAWN>  
+			<WAVE>
+				<Enemy type="SimpleEnemy", posX = "90", posY="5"></Enemy>
+				<Enemy type="SimpleEnemy", posX = "90", posY="15"></Enemy>
+
+			</WAVE>
+			<WAVE>
+				<Enemy type="SimpleEnemy", posX = "90", posY="20"></Enemy>
+				<Enemy type="SimpleEnemy", posX = "90", posY="25"></Enemy>
+
+			</WAVE>
+	</WAVES_TO_SPAWN>
+</PLAY>
+			

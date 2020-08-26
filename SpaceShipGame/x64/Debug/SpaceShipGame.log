@@ -1,0 +1,33 @@
+﻿  ActorsManager.cpp
+  Bullet.cpp
+c:\users\manel\desktop\uni\4to\2on\c++\practicas_entregafinal\spaceshipgame\bullet.cpp(11): warning C4244: '+=': conversión de 'float' a 'int'; posible pérdida de datos
+  DoubleEnemy.cpp
+  Enemy.cpp
+c:\users\manel\desktop\uni\4to\2on\c++\practicas_entregafinal\spaceshipgame\enemy.cpp(9): warning C4244: '+=': conversión de 'float' a 'int'; posible pérdida de datos
+  EnemyManager.cpp
+  HardEnemy.cpp
+  Main.cpp
+c:\users\manel\desktop\uni\4to\2on\c++\practicas_entregafinal\include\timemanager.h(19): warning C4244: 'inicializando': conversión de 'float' a 'const clock_t'; posible pérdida de datos
+  Player.cpp
+  SimpleEnemy.cpp
+  SpaceShip_GameEngine.cpp
+c:\users\manel\desktop\uni\4to\2on\c++\practicas_entregafinal\include\timemanager.h(19): warning C4244: 'inicializando': conversión de 'float' a 'const clock_t'; posible pérdida de datos
+c:\users\manel\desktop\uni\4to\2on\c++\practicas_entregafinal\spaceshipgame\spaceship_gameengine.cpp(107): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\manel\desktop\uni\4to\2on\c++\practicas_entregafinal\spaceshipgame\spaceship_gameengine.cpp(118): warning C4244: 'return': conversión de 'double' a 'T'; posible pérdida de datos
+          with
+          [
+              T=int
+          ]
+  c:\users\manel\desktop\uni\4to\2on\c++\practicas_entregafinal\spaceshipgame\spaceship_gameengine.cpp(128): note: vea la referencia a la creación de instancias de plantilla de función 'T clampValue<int>(const T &,const T &,const T &)' que se está compilando
+          with
+          [
+              T=int
+          ]
+  Timer.cpp
+c:\users\manel\desktop\uni\4to\2on\c++\practicas_entregafinal\include\timemanager.h(19): warning C4244: 'inicializando': conversión de 'float' a 'const clock_t'; posible pérdida de datos
+  tinyxml2.cpp
+  Wave.cpp
+  WaveSpawner.cpp
+c:\users\manel\desktop\uni\4to\2on\c++\practicas_entregafinal\include\timemanager.h(19): warning C4244: 'inicializando': conversión de 'float' a 'const clock_t'; posible pérdida de datos
+  Generando código...
+  SpaceShipGame.vcxproj -> C:\Users\manel\Desktop\UNI\4to\2on\C++\PRACTICAS_ENTREGAFINAL\x64\Debug\SpaceShipGame.exe

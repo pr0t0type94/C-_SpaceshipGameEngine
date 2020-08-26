@@ -1,0 +1,120 @@
+<PLAY>
+  <WAVES_TO_SPAWN>
+    <WAVE>
+      <Enemy type="Simple" posX = "90" posY="5" spawnTime ="2"></Enemy>
+      <Enemy type="Simple" posX = "90" posY="20" spawnTime ="1"></Enemy>
+    </WAVE>
+    <WAVE>
+      <Enemy type="Simple" posX = "90" posY="5" spawnTime ="2"></Enemy>
+      <Enemy type="Double" posX = "100" posY="10" spawnTime ="1"></Enemy>
+      <Enemy type="Simple" posX = "90" posY="15" spawnTime ="1"></Enemy>
+    </WAVE>
+    <WAVE>
+      <Enemy type="Simple" posX = "70" posY="5" spawnTime ="5"></Enemy>
+      <Enemy type="Simple" posX = "90" posY="10" spawnTime ="3"></Enemy>
+      <Enemy type="Double" posX = "80" posY="15" spawnTime ="3"></Enemy>
+      <Enemy type="Simple" posX = "90" posY="25" spawnTime ="3"></Enemy>
+    </WAVE>
+    <WAVE>
+      <Enemy type="Simple" posX = "90" posY="5" spawnTime ="3"></Enemy>
+      <Enemy type="Simple" posX = "80" posY="10" spawnTime ="3"></Enemy>
+      <Enemy type="Hard" posX = "90" posY="15" spawnTime ="3"></Enemy>
+      <Enemy type="Double" posX = "80" posY="25" spawnTime ="2"></Enemy>
+      <Enemy type="Simple" posX = "90" posY="20" spawnTime ="2"></Enemy>
+    </WAVE>
+    <WAVE>
+      <Enemy type="Simple" posX = "70" posY="8" spawnTime ="3"></Enemy>
+      <Enemy type="Simple" posX = "90" posY="10" spawnTime ="3"></Enemy>
+      <Enemy type="Hard" posX = "100" posY="15" spawnTime ="3"></Enemy>
+      <Enemy type="Hard" posX = "90" posY="22" spawnTime ="1"></Enemy>
+    </WAVE>
+    <WAVE>
+      <Enemy type="Simple" posX = "90" posY="5" spawnTime ="2"></Enemy>
+      <Enemy type="Double" posX = "90" posY="10" spawnTime ="1"></Enemy>
+      <Enemy type="Simple" posX = "80" posY="15" spawnTime ="1"></Enemy>
+    </WAVE>
+    <WAVE>
+      <Enemy type="Simple" posX = "95" posY="5" spawnTime ="2"></Enemy>
+      <Enemy type="Double" posX = "95" posY="10" spawnTime ="1"></Enemy>
+      <Enemy type="Hard" posX = "80" posY="15" spawnTime ="2"></Enemy>
+      <Enemy type="Double" posX = "90" posY="20" spawnTime ="1"></Enemy>
+      <Enemy type="Hard" posX = "75" posY="25" spawnTime ="2"></Enemy>
+    </WAVE>
+    <WAVE>
+      <Enemy type="Simple" posX = "70" posY="5" spawnTime ="3"></Enemy>
+      <Enemy type="Simple" posX = "90" posY="16" spawnTime ="2"></Enemy>
+      <Enemy type="Hard" posX = "80" posY="7" spawnTime ="2"></Enemy>
+      <Enemy type="Double" posX = "100" posY="6" spawnTime ="2"></Enemy>
+      <Enemy type="Simple" posX = "90" posY="10" spawnTime ="2"></Enemy>
+      <Enemy type="Hard" posX = "100" posY="15" spawnTime ="1"></Enemy>
+    </WAVE>
+    <WAVE>
+      <Enemy type="Simple" posX = "90" posY="5" spawnTime ="3"></Enemy>
+      <Enemy type="Simple" posX = "90" posY="10" spawnTime ="3"></Enemy>
+      <Enemy type="Hard" posX = "100" posY="15" spawnTime ="3"></Enemy>
+      <Enemy type="Simple" posX = "90" posY="14" spawnTime ="2"></Enemy>
+      <Enemy type="Hard" posX = "70" posY="7" spawnTime ="4"></Enemy>
+    </WAVE>
+    <WAVE>
+      <Enemy type="Simple" posX = "70" posY="5" spawnTime ="3"></Enemy>
+      <Enemy type="Simple" posX = "80" posY="10" spawnTime ="1"></Enemy>
+      <Enemy type="Hard" posX = "70" posY="15" spawnTime ="2"></Enemy>
+      <Enemy type="Simple" posX = "90" posY="22" spawnTime ="2"></Enemy>
+      <Enemy type="Hard" posX = "80" posY="7" spawnTime ="2"></Enemy>
+    </WAVE>
+    <WAVE>
+      <Enemy type="Simple" posX = "60" posY="5" spawnTime ="3"></Enemy>
+      <Enemy type="Simple" posX = "80" posY="10" spawnTime ="1"></Enemy>
+      <Enemy type="Hard" posX = "100" posY="15" spawnTime ="1"></Enemy>
+      <Enemy type="Simple" posX = "90" posY="22" spawnTime ="2"></Enemy>
+      <Enemy type="Hard" posX = "90" posY="25" spawnTime ="1"></Enemy>
+    </WAVE>
+    <WAVE>
+      <Enemy type="Simple" posX = "80" posY="5" spawnTime ="3"></Enemy>
+      <Enemy type="Simple" posX = "90" posY="10" spawnTime ="1"></Enemy>
+      <Enemy type="Hard" posX = "80" posY="15" spawnTime ="1"></Enemy>
+      <Enemy type="Simple" posX = "90" posY="22" spawnTime ="2"></Enemy>
+      <Enemy type="Hard" posX = "90" posY="25" spawnTime ="1"></Enemy>
+    </WAVE>
+    <WAVE>
+      <Enemy type="Simple" posX = "60" posY="5" spawnTime ="2"></Enemy>
+      <Enemy type="Simple" posX = "80" posY="10" spawnTime ="1"></Enemy>
+      <Enemy type="Hard" posX = "100" posY="15" spawnTime ="1"></Enemy>
+      <Enemy type="Simple" posX = "90" posY="22" spawnTime ="1"></Enemy>
+      <Enemy type="Hard" posX = "90" posY="7" spawnTime ="1"></Enemy>
+    </WAVE>
+    <WAVE>
+      <Enemy type="Simple" posX = "60" posY="16" spawnTime ="1"></Enemy>
+      <Enemy type="Hard" posX = "90" posY="7" spawnTime ="1"></Enemy>
+    </WAVE>
+    <WAVE>
+      <Enemy type="Simple" posX = "60" posY="15" spawnTime ="1"></Enemy>
+      <Enemy type="Hard" posX = "90" posY="7" spawnTime ="1"></Enemy>
+    </WAVE>
+    <WAVE>
+      <Enemy type="Hard" posX = "60" posY="5" spawnTime ="1"></Enemy>
+      <Enemy type="Hard" posX = "90" posY="17" spawnTime ="1"></Enemy>
+    </WAVE>
+    <WAVE>
+      <Enemy type="Hard" posX = "60" posY="5" spawnTime ="1"></Enemy>
+      <Enemy type="Hard" posX = "90" posY="17" spawnTime ="1"></Enemy>
+    </WAVE>
+    <WAVE>
+      <Enemy type="Hard" posX = "80" posY="5" spawnTime ="1"></Enemy>
+      <Enemy type="Hard" posX = "99" posY="12" spawnTime ="1"></Enemy>
+      <Enemy type="Hard" posX = "90" posY="20" spawnTime ="1"></Enemy>
+    </WAVE>
+    <WAVE>
+      <Enemy type="Hard" posX = "60" posY="9" spawnTime ="1"></Enemy>
+      <Enemy type="Hard" posX = "90" posY="12" spawnTime ="1"></Enemy>
+      <Enemy type="Hard" posX = "60" posY="15" spawnTime ="1"></Enemy>
+      <Enemy type="Hard" posX = "90" posY="22" spawnTime ="1"></Enemy>
+    </WAVE>
+    <WAVE>
+      <Enemy type="Hard" posX = "100" posY="6" spawnTime ="1"></Enemy>
+      <Enemy type="Hard" posX = "90" posY="11" spawnTime ="1"></Enemy>
+      <Enemy type="Hard" posX = "80" posY="17" spawnTime ="1"></Enemy>
+      <Enemy type="Hard" posX = "90" posY="22" spawnTime ="1"></Enemy>
+    </WAVE>
+  </WAVES_TO_SPAWN>
+</PLAY>

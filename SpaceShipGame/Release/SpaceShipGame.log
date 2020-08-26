@@ -1,0 +1,35 @@
+﻿  ActorsManager.cpp
+  Bullet.cpp
+c:\users\manel\documents\visual studio 2017\projects\practicas_letras+snake\spaceshipgame\bullet.cpp(10): warning C4244: '+=': conversión de 'float' a 'int'; posible pérdida de datos
+  Enemy.cpp
+c:\users\manel\documents\visual studio 2017\projects\practicas_letras+snake\spaceshipgame\enemy.cpp(11): warning C4244: '-=': conversión de 'float' a 'int'; posible pérdida de datos
+  EnemyManager.cpp
+  Main.cpp
+c:\users\manel\documents\visual studio 2017\projects\practicas_letras+snake\practica3_lluviadeletras\timemanager.h(20): warning C4244: 'inicializando': conversión de 'float' a 'const clock_t'; posible pérdida de datos
+  Player.cpp
+c:\users\manel\documents\visual studio 2017\projects\practicas_letras+snake\spaceshipgame\player.cpp(23): warning C4554: "&": compruebe la prioridad de operador para posibles errores; utilice paréntesis para indicar la prioridad
+  SpaceShip_GameEngine.cpp
+c:\users\manel\documents\visual studio 2017\projects\practicas_letras+snake\practica3_lluviadeletras\timemanager.h(20): warning C4244: 'inicializando': conversión de 'float' a 'const clock_t'; posible pérdida de datos
+c:\users\manel\documents\visual studio 2017\projects\practicas_letras+snake\spaceshipgame\spaceship_gameengine.cpp(11): error C3861: 'startNewGame': no se encontró el identificador
+c:\users\manel\documents\visual studio 2017\projects\practicas_letras+snake\spaceshipgame\spaceship_gameengine.cpp(13): error C2039: 'startNewGame': no es un miembro de 'SpaceShip_GameEngine'
+  c:\users\manel\documents\visual studio 2017\projects\practicas_letras+snake\spaceshipgame\spaceship_gameengine.h(9): note: vea la declaración de 'SpaceShip_GameEngine'
+c:\users\manel\documents\visual studio 2017\projects\practicas_letras+snake\spaceshipgame\spaceship_gameengine.cpp(15): error C2065: 'drawManager': identificador no declarado
+c:\users\manel\documents\visual studio 2017\projects\practicas_letras+snake\spaceshipgame\spaceship_gameengine.cpp(15): error C2065: 'm_playerLives': identificador no declarado
+c:\users\manel\documents\visual studio 2017\projects\practicas_letras+snake\spaceshipgame\spaceship_gameengine.cpp(16): error C2065: 'is_GameOver': identificador no declarado
+  Timer.cpp
+c:\users\manel\documents\visual studio 2017\projects\practicas_letras+snake\practica3_lluviadeletras\timemanager.h(20): warning C4244: 'inicializando': conversión de 'float' a 'const clock_t'; posible pérdida de datos
+  tinyxml2.cpp
+  Wave.cpp
+  WaveSpawner.cpp
+c:\users\manel\documents\visual studio 2017\projects\practicas_letras+snake\practica3_lluviadeletras\timemanager.h(20): warning C4244: 'inicializando': conversión de 'float' a 'const clock_t'; posible pérdida de datos
+c:\users\manel\documents\visual studio 2017\projects\practicas_letras+snake\spaceshipgame\wavespawner.cpp(24): error C2664: 'void std::list<Wave *,std::allocator<_Ty>>::push_back(const _Ty &)': el argumento 1 no puede convertirse de 'Wave' a '_Ty &&'
+          with
+          [
+              _Ty=Wave *
+          ]
+  c:\users\manel\documents\visual studio 2017\projects\practicas_letras+snake\spaceshipgame\wavespawner.cpp(24): note: Razón: no se puede realizar la conversión de 'Wave' a '_Ty'
+          with
+          [
+              _Ty=Wave *
+          ]
+  c:\users\manel\documents\visual studio 2017\projects\practicas_letras+snake\spaceshipgame\wavespawner.cpp(24): note: No hay disponible ningún operador de conversión definido por el usuario que pueda realizar esta conversión, o bien no se puede llamar al operador
